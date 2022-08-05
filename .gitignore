@@ -210,3 +210,5 @@ dynmap/perspectives.txt
 dynmap/shaders.txt
 dynmap/version.txt
 dynmap/worlds.txt
+dynmap/ids-by-ip.txt
+dynmap/forgeworlds.yml
