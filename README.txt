@@ -3,7 +3,7 @@ Just some personal tweaks for my tastes to the Antimatter Chemistry modpack
 
 this is made just to be copied over the top of a instance of the modpack
 
-Add this at own risk, Don't bother Antimatter Chemistry developers with Bug once this is added 
+Add this at own risk, Don't bother Antimatter Chemistry developers with Bugs once this is added 
 
 ==Changes==
 - Added Dynmap 
