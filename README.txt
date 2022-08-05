@@ -25,3 +25,5 @@ Add this at own risk, Don't bother Antimatter Chemistry developers with Bug once
     Short answer, openblock fans annoy me way too much
 
 - Changed Suger Cane and Cactus back to normal growth heights
+
+- Add JER(Just Enough Resources) World gen data

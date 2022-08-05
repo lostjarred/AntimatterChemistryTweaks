@@ -25,6 +25,7 @@ screenshots/
 server-resource-packs/
 shaderpacks/
 texturepacks/
+crash-reports/
 
 #cant ignore config folder so just the defaults configs
 config/AE2WirelessTerminals.cfg
@@ -149,7 +150,7 @@ config/ftbquests/
 config/incontrol/
 config/InvTweaks/
 config/jei/
-config/jeresources/
+config/jeresources/jeresources.cfg
 config/laser_drill_ores/
 config/loliasm/
 config/mputils/
