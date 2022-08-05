@@ -10,7 +10,8 @@ Add this at own risk, Don't bother Antimatter Chemistry developers with Bug once
     https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/3898414
 
 - Added Dynmap Block Scan
-    https://github.com/webbukkit/DynmapBlockScan/tree/1.12.2
+    https://github.com/webbukkit/DynmapBlockScan
+    http://mikeprimm.com/dynmap/builds/DynmapBlockScan/
 
 - Added /dank/null 
     https://www.curseforge.com/minecraft/mc-mods/dank-null/files/2920596
