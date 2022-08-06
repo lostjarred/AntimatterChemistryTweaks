@@ -21,8 +21,6 @@ Add this at own risk, Don't bother Antimatter Chemistry mod team with Bugs once 
 - Added /dank/null 
     https://www.curseforge.com/minecraft/mc-mods/dank-null/files/2920596
 
-    
-
 - Added Mob Grinding Utils
     https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils/files/2656683
 
@@ -31,3 +29,10 @@ Add this at own risk, Don't bother Antimatter Chemistry mod team with Bugs once 
 - Changed Suger Cane and Cactus back to normal growth heights
 
 - Add JER(Just Enough Resources) World gen data
+
+- Mob Grinding Utils removed recipes for
+    - Singularity Tank
+    - XP Drain
+    - XP Tap
+    - Iron Spikes
+    - Conveyor

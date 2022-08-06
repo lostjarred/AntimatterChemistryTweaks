@@ -12,3 +12,13 @@ print("LostsTweaks:Mob Grinding Utils:recipes");
         [<minecraft:stone_slab>, <ore:ingotIron>, <minecraft:stone_slab>]
         ]);
 
+//remove recipes for uneeded blocks
+    //tanks
+    recipes.remove(<mob_grinding_utils:tank>);
+    recipes.remove(<mob_grinding_utils:tank_sink>);
+    //xp tap
+    recipes.remove(<mob_grinding_utils:xp_tap>);
+    //iron spike
+    recipes.remove(<mob_grinding_utils:spikes>);
+    //Converyor
+    recipes.remove(<mob_grinding_utils:entity_conveyor>);
