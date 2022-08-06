@@ -3,8 +3,8 @@
 !*/
 
 #loose files
-!.gitignore
-!README.txt
+!/.gitignore
+!/README.txt
 
 #loose config
 !config/apotheosis/garden.cfg
