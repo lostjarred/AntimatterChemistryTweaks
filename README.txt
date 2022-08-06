@@ -36,3 +36,7 @@ Add this at own risk, Don't bother Antimatter Chemistry mod team with Bugs once 
     - XP Tap
     - Iron Spikes
     - Conveyor
+
+-Mob Grinding Utils Replace recipes for
+    -Fan, uses openblock fan in recipes
+    -Mob Masher, uses diamond spikes from Extra Utilites

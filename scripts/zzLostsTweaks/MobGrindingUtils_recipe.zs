@@ -22,3 +22,12 @@ print("LostsTweaks:Mob Grinding Utils:recipes");
     recipes.remove(<mob_grinding_utils:spikes>);
     //Converyor
     recipes.remove(<mob_grinding_utils:entity_conveyor>);
+
+//replace mobmasher recipe
+    val extutldiamondspike = <extrautils2:spike_diamond>;
+    recipes.remove(<mob_grinding_utils:saw>);
+    recipes.addShaped(<mob_grinding_utils:saw>,[
+        [<minecraft:iron_sword>, <ore:ingotIron>, <minecraft:iron_sword>],
+        [extutldiamondspike, <ore:blockRedstone>, extutldiamondspike],
+        [<ore:ingotIron>, <ore:blockIron>, <ore:ingotIron>]
+        ]);
