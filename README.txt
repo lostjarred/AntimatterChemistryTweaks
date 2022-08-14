@@ -14,6 +14,8 @@ Add this at own risk, Don't bother Antimatter Chemistry mod team with Bugs once 
     https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/3898414
 
 - Added Dynmap Block Scan
+    https://dynmap.us/builds/DynmapBlockScan/DynmapBlockScan-core-3.4-beta-4.jar
+    https://dynmap.us/builds/DynmapBlockScan/DynmapBlockScan-3.4-beta-1-forge-1.12.2.jar
     https://github.com/webbukkit/DynmapBlockScan
     http://mikeprimm.com/dynmap/builds/DynmapBlockScan/
     https://github.com/FedUpWith-Tech/DynmapBlockScan-Data
